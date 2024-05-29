@@ -1,0 +1,23 @@
+{
+  "name": "fast-edit",
+  "version": "1.0.0",
+  "description": "This is a fast simple text editor made with electron.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SchneiderMaster/fast-edit.git"
+  },
+  "author": "SchneiderMaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchneiderMaster/fast-edit/issues"
+  },
+  "homepage": "https://github.com/SchneiderMaster/fast-edit#readme",
+  "devDependencies": {
+    "electron": "^30.0.8"
+  }
+}

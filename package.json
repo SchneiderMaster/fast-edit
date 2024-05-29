@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/SchneiderMaster/fast-edit#readme",
   "devDependencies": {
-    "electron": "^30.0.8"
+    "electron": "^30.0.8",
+    "electron-reload": "^2.0.0-alpha.1"
   }
 }
